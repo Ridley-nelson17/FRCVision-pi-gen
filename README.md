@@ -1,7 +1,4 @@
-# FRCVision-pi-gen
-
-_Tool used to create the FRCVision Raspbian image_
-
+# PiBotOS-pi-gen
 
 ## Dependencies
 
